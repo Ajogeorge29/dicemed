@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dicemed/static/css/main.ac93d0f0.css",
-    "main.js": "/dicemed/static/js/main.54456b28.js",
+    "main.js": "/dicemed/static/js/main.323bb522.js",
     "static/js/453.bb828c5d.chunk.js": "/dicemed/static/js/453.bb828c5d.chunk.js",
     "static/media/fa-solid-900.ttf": "/dicemed/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/mitu.jpg": "/dicemed/static/media/mitu.ad7640ec23786ef92311.jpg",
@@ -27,11 +27,11 @@
     "static/media/logo.svg": "/dicemed/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dicemed/index.html",
     "main.ac93d0f0.css.map": "/dicemed/static/css/main.ac93d0f0.css.map",
-    "main.54456b28.js.map": "/dicemed/static/js/main.54456b28.js.map",
+    "main.323bb522.js.map": "/dicemed/static/js/main.323bb522.js.map",
     "453.bb828c5d.chunk.js.map": "/dicemed/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac93d0f0.css",
-    "static/js/main.54456b28.js"
+    "static/js/main.323bb522.js"
   ]
 }
