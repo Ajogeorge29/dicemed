@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dicemed/static/css/main.79acd0de.css",
-    "main.js": "/dicemed/static/js/main.28c734eb.js",
+    "main.css": "/dicemed/static/css/main.0405dc4c.css",
+    "main.js": "/dicemed/static/js/main.6fd375bf.js",
     "static/js/453.bb828c5d.chunk.js": "/dicemed/static/js/453.bb828c5d.chunk.js",
     "static/media/fa-solid-900.ttf": "/dicemed/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/mitu.jpg": "/dicemed/static/media/mitu.ad7640ec23786ef92311.jpg",
@@ -22,16 +22,17 @@
     "static/media/fa-regular-400.woff2": "/dicemed/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/ajo.jpg": "/dicemed/static/media/ajo.08efe9adfec22ab9c618.jpg",
     "static/media/sadvik.jpg": "/dicemed/static/media/sadvik.9cbe757cd21a6db58bd7.jpg",
+    "static/media/logo.jpeg": "/dicemed/static/media/logo.f865277bdde69c785f2d.jpeg",
     "static/media/fa-v4compatibility.ttf": "/dicemed/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/dicemed/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "static/media/logo.svg": "/dicemed/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dicemed/index.html",
-    "main.79acd0de.css.map": "/dicemed/static/css/main.79acd0de.css.map",
-    "main.28c734eb.js.map": "/dicemed/static/js/main.28c734eb.js.map",
+    "main.0405dc4c.css.map": "/dicemed/static/css/main.0405dc4c.css.map",
+    "main.6fd375bf.js.map": "/dicemed/static/js/main.6fd375bf.js.map",
     "453.bb828c5d.chunk.js.map": "/dicemed/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79acd0de.css",
-    "static/js/main.28c734eb.js"
+    "static/css/main.0405dc4c.css",
+    "static/js/main.6fd375bf.js"
   ]
 }
