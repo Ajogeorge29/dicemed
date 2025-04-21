@@ -37,7 +37,7 @@ const Navbar = () => {
             className="text-xl font-bold cursor-pointer"
             onClick={() => scrollToSection("hero")}
           >
-            Dice-Med
+            DiceMed
           </div>
           <div className="hidden md:flex gap-8">
             {[
